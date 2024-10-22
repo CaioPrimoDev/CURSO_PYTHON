@@ -1,0 +1,10 @@
+Acesse: https://pypi.org/
+
+
+# [ ... ] LISTA
+# ( ... ) TUPLA
+"""
+{ ... } SET(tradução: conjunto)
+    {"nome" : "Brasil"}
+"""
+# { ... } DICT(dicionario-parecido com SET{pesquisar})
